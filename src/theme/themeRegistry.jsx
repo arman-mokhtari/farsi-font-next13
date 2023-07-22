@@ -9,7 +9,7 @@ export const lightTheme = createTheme({
     },
   },
   typography: {
-    fontFamily: "shabnam, roboto",
+    fontFamily: "shabnam",
   },
   components: {
     MuiButtonBase: {
@@ -29,7 +29,7 @@ export const darkTheme = createTheme({
     },
   },
   typography: {
-    fontFamily: "shabnam, roboto",
+    fontFamily: "shabnam",
   },
   components: {
     MuiButtonBase: {
